@@ -9,12 +9,12 @@ assignees: ''
 ---
 
 **Description:**
-[Explain in detail here what happens or what isn't working]
+[Explain in detail here what happens, what isn't working or what feature you have in mind]
 [What steps do I need to take in-game to trigger this bug?]
 
 **Details:**
 - Exact Minecraft version: [e.g., 1.20.1]
-- Modloader and version: [e.g., Forge 49.0.31 / Fabric 0.15.7]
+- Modloader and version: [e.g., Forge 49.0.31]
 - Mod version: [e.g., 2026.5]
 
 **Crash Log / Log File:**
