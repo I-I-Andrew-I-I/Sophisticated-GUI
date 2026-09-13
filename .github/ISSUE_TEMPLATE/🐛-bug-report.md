@@ -1,15 +1,15 @@
 ---
-name: "\U0001F41B Bug Report & Suggestions"
+name: "\U0001F41B Bug Report"
 about: If you encounter any bugs, crashes, or have a feature request, please let me
   know!
-title: ''
+title: "[BUG]"
 labels: ''
 assignees: ''
 
 ---
 
 **Description:**
-[Explain in detail here what happens, what isn't working or what feature you have in mind]
+[Explain in detail here what happens, what isn't working]
 [What steps do I need to take in-game to trigger this bug?]
 
 **Details:**
