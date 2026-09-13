@@ -12,18 +12,8 @@
 
 ![Sophisticated GUI Banner](2026-09-13_13.33.20.jpg)
 
-## 📖 About
-**Sophisticated GUI** is a Minecraft mod designed to enhance and expand your inventory management experience. It allows for advanced graphical user interfaces (GUIs), enabling you to open utility containers—like your backpack—side-by-side with vanilla blocks such as furnaces, crafting tables, and chests. 
-
-Say goodbye to constantly opening and closing menus to move your items around!
-
-## ✨ Features
-* **Side-by-Side GUIs:** Seamlessly interact with multiple interfaces at the same time.
-* **Streamlined Inventory Management:** Quickly transfer items between your custom containers and crafting stations.
-* **Clean Aesthetic:** Designed to perfectly blend with the vanilla Minecraft look and feel.
-
 ## 📥 Downloads & Installation
-You can always find the latest releases and updates on our official Modrinth page:
+You can always find the latest releases and updates on my official Modrinth page:
 
 👉 **[Download Sophisticated GUI on Modrinth](https://modrinth.com/mod/sophisticated-gui)**
 
@@ -42,4 +32,4 @@ When reporting a bug, please make sure to include:
 3. A link to your crash log (using Pastebin or mclo.gs)
 
 ---
-*Created with ❤️ for the Minecraft Modding Community.*
+*Coded with AI.*
