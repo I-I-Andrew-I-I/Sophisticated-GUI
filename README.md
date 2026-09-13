@@ -18,7 +18,7 @@ You can always find the latest releases and updates on my official Modrinth page
 
 ### Requirements
 * **Minecraft:** `[1.20.1(Forge)]`, `[1.21.1(NeoForge)]`
-* **Dependencies:** `["Sophisticated Backpacks"]`
+* **Dependencies:** `[Sophisticated Backpacks]`
 
 ## 🐛 Bug Reports & Suggestions
 If you encounter any bugs, crashes, or have a feature request, please let me know! 
