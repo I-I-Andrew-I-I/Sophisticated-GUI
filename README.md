@@ -1,7 +1,7 @@
 <div align="center">
   <img src="modlogo.png" alt="Sophisticated GUI Logo" width="150" />
 
-  <h1>Sophisticated GUI</h1>
+  <h1><b></b>Sophisticated GUI</h1>
 
 
   [![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-30B27B?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/sophisticated-gui)
