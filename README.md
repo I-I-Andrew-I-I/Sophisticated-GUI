@@ -17,12 +17,12 @@ You can always find the latest releases and updates on my official Modrinth page
 👉 **[Download Sophisticated GUI on Modrinth](https://modrinth.com/mod/sophisticated-gui)**
 
 ### Requirements
-* **Minecraft:** `[1.20.1(Forge),1.21.1(NeoForge)]`
-* **Dependencies:** `[Sophisticated Backpacks]`
+* **Minecraft:** `["1.20.1(Forge),1.21.1(NeoForge)"]`
+* **Dependencies:** `["Sophisticated Backpacks"]`
 
 ## 🐛 Bug Reports & Suggestions
-If you encounter any bugs, crashes, or have a feature request, please let us know! 
-You can report issues on our **[Issue Tracker](LINK_AL_TUO_GITHUB_ISSUES_QUI)**.
+If you encounter any bugs, crashes, or have a feature request, please let me know! 
+You can report issues on my **[Issue Tracker](LINK_AL_TUO_GITHUB_ISSUES_QUI)**.
 
 When reporting a bug, please make sure to include:
 1. Your Minecraft version
