@@ -9,7 +9,7 @@
 
 ---
 
-![Sophisticated GUI Banner](2026-09-13_13.33.20.jpg)
+![Sophisticated GUI Banner](banner.jpg)
 
 ## 📥 Downloads & Installation
 You can always find the latest releases and updates on my official Modrinth page:
