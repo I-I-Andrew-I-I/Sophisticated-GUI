@@ -3,7 +3,6 @@
 
   <h1>Sophisticated GUI</h1>
 
-  <p><strong>Enhance your Minecraft inventory and container interfaces.</strong></p>
 
   [![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-30B27B?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/sophisticated-gui)
 </div>
