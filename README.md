@@ -11,7 +11,7 @@
 
 ![Sophisticated GUI Banner](.github/banner.png)
 
-## 📥 Downloads & Installation
+## 📥 Where can I find the mod?
 You can always find the latest releases and updates on my official Modrinth page:
 
 👉 **[Download Sophisticated GUI on Modrinth](https://modrinth.com/mod/sophisticated-gui)**
