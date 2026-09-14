@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="modlogo.png" alt="Sophisticated GUI Logo" width="150" />
+  <img src=".github/modlogo.png" alt="Sophisticated GUI Logo" width="150" />
 
   <h1>SOPHISTICATED GUI</h1>
 
@@ -9,7 +9,7 @@
 
 ---
 
-![Sophisticated GUI Banner](banner.png)
+![Sophisticated GUI Banner](.github/banner.png)
 
 ## 📥 Downloads & Installation
 You can always find the latest releases and updates on my official Modrinth page:
@@ -27,7 +27,7 @@ You can report issues on my **[Issues](https://github.com/I-I-Andrew-I-I/Sophist
 When reporting a bug, please make sure to include:
 1. Your Minecraft version
 2. Your Modloader version
-3. A link to your crash log (using Pastebin or mclo.gs)
+3. A link to your crash log (using mclo.gs or similar)
 
 ---
 *Coded with AI.*
