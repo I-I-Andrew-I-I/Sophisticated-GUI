@@ -1,6 +1,6 @@
 ---
 name: "\U0001F4A1Suggestion"
-about: Create a report to help us improve
+about: If you have any suggestion for the mod, let me know!
 title: "[SUGGESTION]"
 labels: ''
 assignees: ''
