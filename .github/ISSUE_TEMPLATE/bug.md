@@ -1,7 +1,7 @@
 ---
 name: "\U0001F41B Bug Report"
 about: If you encounter any bugs, crashes, let me know!
-title: "[🐛BUG]"
+title: "[\U0001F41BBUG]"
 labels: ''
 assignees: ''
 
