@@ -29,4 +29,4 @@ When reporting a bug, please make sure to include:
 3. A link to your crash log (using mclo.gs or similar)
 
 ---
-*Coded with AI.*
+*Manually created assets. AI-generated code.*
